@@ -25,7 +25,7 @@ a{
 	padding: 0px;
 }
 .pos-f {
-	position: fixed;
+	position: absolute;
 }
 .left-100 {
 	width: 100%;
@@ -39,7 +39,7 @@ a{
 	transition: all .3s;
 }
 #DonateText {
-	position: fixed;
+	position: absolute;
 	font-size: 12px;
 	width: 70px;
 	height: 70px;
