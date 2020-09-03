@@ -27,7 +27,7 @@
     }).then(function() {
         return botui.message.bot({
             delay: 1000,
-            content: "我是 Mario，你也可以叫我蘑菇君🍄"
+            content: "我是诺臻，你也可以叫我小臻臻"
         })
     }).then(function() {
         return botui.message.bot({
@@ -65,17 +65,17 @@
         }).then(function() {
             return botui.message.bot({
                 delay: 1500,
-                content: "是个正在学习的小运维，业余Coder"
+                content: "是个正在学习计算机科学与技术的大学生"
             })
         }).then(function() {
             return botui.message.bot({
                 delay: 1500,
-                content: "略懂HTML/CSS/JavaScript/PHP，偶尔也折腾易语言、Python"
+                content: "略懂Python、Java，偶尔也折腾HTML/CSS/JavaScript/PHP"
             })
         }).then(function() {
             return botui.message.bot({
                 delay: 1500,
-                content: "不过还是比较熟悉主机DIY与系统环境安装部署"
+                content: "不过还是比较熟悉C语言的，毕竟大一的课程"
             })
         }).then(function() {
             return botui.message.bot({
@@ -86,14 +86,14 @@
             return botui.action.button({
                 delay: 1500,
                 action: [{
-                    text: "为什么叫 雾时之森 呢？ 🤔",
+                    text: "为什么叫 诺臻 呢？ 🤔",
                     value: "next"
                 }]
             })
         }).then(function(res) {
             return botui.message.bot({
                 delay: 1500,
-                content: "一次起昵称时偶然打出了这个名字，于是我就沿用了下来，你也可以简称为 “雾森”，嗯！"
+                content: "一次起昵称时偶然打出了这个名字，于是我就沿用了下来，嗯！"
             })
         }).then(function() {
             return botui.action.button({
