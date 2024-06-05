@@ -3,9 +3,6 @@
    <h1>Hi there, I'm <a href="https://nuozhen.github.io">NuoZhen</a> <img src="images/wave.gif" width="25px"> </h1>
 </div>
 
-<!-- 横线 -->
-<hr style="height:1px; border:none; border-top:1px solid #555555;" />
-
 <!-- 欢迎 -->
 <div align="center">
 <h3>🎉Welcome to my GitHub profile page!🎉</h3>
@@ -35,13 +32,15 @@
 </div>
 
 <!-- 自我介绍+GIF -->
-<img align="right" width="60%" height="100%" alt="GIF" src="images/dev-working_rounded.gif?raw=true" />
-<div align="center">
-<h3> I'm a self-taught full-stack developer from China.</h3>
+<img align="right" width="30%" height="100%" alt="GIF" src="images/dev-working_rounded.gif?raw=true" />
+<div align="light">
+<h3>I'm a self-taught full-stack developer from China.</h3>
 </div>
--   🧑‍💻 I work in back-end development.
--   😋 I‘m interested in Java, front and back end development, databases, computer networks, operating systems, AI, etc.
--   🎮 I'm also a gamer and enjoy RPG, ACT, AVG, FPS, MOBA, and other types of games.
+
+- 🧑‍💻 I work in back-end development.
+- 😋 I‘m interested in Java, front and back end development,
+-    databases, computer networks, operating systems, AI, etc.
+- 🎮 I'm also a gamer and enjoy RPG, ACT, AVG, FPS, MOBA, and other types of games.
 
 <!-- 技术栈标签 -->
 <h3 align="left">Skill Stack</h3>
