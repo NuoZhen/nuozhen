@@ -1,6 +1,6 @@
 <!-- 欢迎部分 -->
 <div align="center">
-   <h1>Hi there, I'm <a href="https://nuozhen.github.io">NuoZhen</a> <img src="images/wave.gif" width="25px"> </h1>
+   <h1>Hi there, I'm <a href="https://nuozhen.github.io" target="_blank">NuoZhen</a> <img src="images/wave.gif" width="25px"> </h1>
 </div>
 
 <!-- 欢迎 -->
@@ -16,12 +16,12 @@
 <!-- 常用软件标签 -->
 <div align="center">
 <!-- 静态徽章 -->
-<a href="https://github.com/nuozhen"><img alt="github" src="https://img.shields.io/badge/GitHub-nuozhen-white?logo=github"></a>
-<a href="https://gitee.com/nuozhensgitee"><img alt="gitee" src="https://img.shields.io/badge/Gitee-%E8%AF%BA%E8%87%BB-red?logo=gitee"></a>
-<a href="https://stackoverflow.com/users/22392711/nuozhen"><img alt="stackoverflow" src="https://img.shields.io/badge/stackoverflow-nuozhen-orange?logo=stackoverflow"></a>
-<a href="https://blog.csdn.net/NuoZhen"><img alt="Static Badge" src="https://img.shields.io/badge/CSDN-%E8%AF%BA%E8%87%BB-red?logo=csdn"></a>
-<a href="https://space.bilibili.com/22840841"><img alt="bilibili" src="https://img.shields.io/badge/bilibili-%E8%AF%BA%E8%87%BB-blue?logo=bilibili"></a>
-<a href="https://x.com/nuo_zhen"><img alt="x" src="https://img.shields.io/badge/X-nuozhen-black?logo=twitter"></a>
+<a href="https://github.com/nuozhen" target="_blank"><img alt="github" src="https://img.shields.io/badge/GitHub-nuozhen-white?logo=github"></a>
+<a href="https://gitee.com/nuozhensgitee" target="_blank"><img alt="gitee" src="https://img.shields.io/badge/Gitee-%E8%AF%BA%E8%87%BB-red?logo=gitee"></a>
+<a href="https://stackoverflow.com/users/22392711/nuozhen" target="_blank"><img alt="stackoverflow" src="https://img.shields.io/badge/stackoverflow-nuozhen-orange?logo=stackoverflow"></a>
+<a href="https://blog.csdn.net/NuoZhen" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/CSDN-%E8%AF%BA%E8%87%BB-red?logo=csdn"></a>
+<a href="https://space.bilibili.com/22840841" target="_blank"><img alt="bilibili" src="https://img.shields.io/badge/bilibili-%E8%AF%BA%E8%87%BB-blue?logo=bilibili"></a>
+<a href="https://x.com/nuo_zhen" target="_blank"><img alt="x" src="https://img.shields.io/badge/X-nuozhen-black?logo=twitter"></a>
 <!-- 访问统计 -->
 <img src="https://komarev.com/ghpvc/?username=nuozhen&abbreviated=true" />
 </div>
