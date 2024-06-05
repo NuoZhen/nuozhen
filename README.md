@@ -43,9 +43,9 @@
 - 🎮 I'm also a gamer and enjoy RPG, ACT, AVG, FPS, MOBA, and other types of games.
 
 <!-- 技术栈标签 -->
-<h3 align="left">Skill Stack</h3>
+<h2 align="left">Skill Stack</h2>
 
-<h4 align="left">Programming Languages</h4>
+<h3 align="left">Programming Languages</h3>
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
@@ -55,7 +55,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
 </p>
 
-<h4 align="left">Frontend Development</h4>
+<h3 align="left">Frontend Development</h3>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
@@ -67,7 +67,7 @@
 <a href="hexo.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/></a>
 </p>
 
-<h4 align="left">Backend Development</h4>
+<h3 align="left">Backend Development</h3>
 <p align="left">
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
 <a href="https://mybatis.org/" target="_blank" rel="noreferrer"> <img src="images/mybatis.svg" alt="mybatis-plus" width="40" height="40"/></a>
@@ -81,7 +81,7 @@
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
 </p>
 
-<h4 align="left">Database</h4>
+<h3 align="left">Database</h3>
 <p align="left">
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
@@ -89,7 +89,7 @@
 <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
 </p>
 
-<h4 align="left">AI / ML</h4>
+<h3 align="left">AI / ML</h3>
 <p align="left">
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
@@ -97,7 +97,7 @@
 <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
 </p>
 
-<h4 align="left">Infrastructure</h4>
+<h3 align="left">Infrastructure</h3>
 <p align="left">
 <a href="https://www.aliyun.com/" target="_blank" rel="noreferrer"> <img src="images/aliyun.svg" alt="aliyun" width="40" height="40"/></a> 
 <a href="https://www.huaweicloud.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/huawei/huawei-icon.svg" alt="huaweicloud" width="40" height="40"/></a> 
@@ -106,7 +106,7 @@
 <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
 </p>
 
-<h4 align="left">Tools</h4>
+<h3 align="left">Tools</h3>
 <p align="left"> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 <a href="https://www.ubuntu.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-tile.svg" alt="ubuntu" width="40" height="40"/></a>
@@ -124,11 +124,14 @@
 </p>
 
 <!-- Stats -->
-[![NuoZhen's GitHub stats](https://github-readme-stats.vercel.app/api?username=nuozhen&count_private=true&show_icons=true&hide_border=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<h2 align="left">Stats</h2>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nuozhen&count_private=true&show_icons=true&hide_border=true&theme=transparent" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuozhen&hide_border=true&theme=transparent" />
 <!--
 [![GitHub Streak](https://streak-stats.demolab.com?user=nuozhen&theme=transparent&hide_border=true&hide_longest_streak=true)](https://git.io/streak-stats)
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuozhen&hide_border=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 <!-- 贡献图 -->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=nuozhen&theme=github-compact&hide_border=true&area=true" />
@@ -138,7 +141,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nuozhen&repo=nuozhen.github.io&theme=transparent)](https://github.com/fomalhaut1998/nuozhen.github.io)
 
 <!-- 底部 -->
-<img align="middle" src="https://count.getloli.com/get/@:nuozhen?theme=moebooru">
+<img align="middle" src="https://count.getloli.com/get/@:nuozhen?theme=rule34">
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer" />
 </p>
