@@ -62,7 +62,7 @@
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://www.vitejs.net/" target="_blank" rel="noreferrer"> <img src="https://www.vitejs.net//logo.svg" alt="vite" width="40" height="40"/></a>
+<a href="https://www.vitejs.net/" target="_blank" rel="noreferrer"> <img src="images/vitejs.svg" alt="vite" width="40" height="40"/></a>
 <a href="https://element-plus.org/" target="_blank" rel="noreferrer"> <img src="images/element-plus.svg" alt="element-plus" width="40" height="40"/></a>
 <a href="hexo.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/></a>
 </p>
