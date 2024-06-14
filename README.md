@@ -140,7 +140,7 @@
 <h2 align="left">Open Source</h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nuozhen&repo=nuozhen.github.io&theme=transparent)](https://github.com/fomalhaut1998/nuozhen.github.io)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nuozhen&repo=nuozhen.github.io&theme=transparent)](https://github.com/fomalhaut1998/nuozhen.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nuozhen&repo=sky-take-out&theme=transparent)](https://github.com/fomalhaut1998/nuozhen.github.io)
 
 <!-- 底部 -->
 <img align="middle" src="https://count.getloli.com/get/@:nuozhen?theme=rule34">
